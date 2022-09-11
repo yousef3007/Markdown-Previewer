@@ -1,0 +1,25 @@
+#editor{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 300px;
+    width: 550px;
+    background-color: #baddc6;
+    border: 1mm solid;
+    border-color: #396E4A;
+    border-radius: 5px;
+}
+#preview{
+    padding: 20px;
+    margin: 0 auto;
+    width: 750px;
+    border: 3mm solid;
+    border-color: #396E4A;
+    border-radius: 5px;
+    background-color: #C5F0D3;
+}
+body{
+    background-color: #7bed9f;
+}
